@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CowsandBulls</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="guess"></string>
+    <string name="guessno">Guess the three digit number!!!</string>
+    <string name="guessbox"></string>
+    <string name="hit">Hit!</string>
+    <string name="result">Result</string>
+    <string name="guesstext">Guess the three digit number!!!</string>
+    <string name="startgame">Start Game</string>
+    <string name="startnewgame">Start New game</string>
+    <string name="newgamebutton">New Game</string>
+    <string name="exitbutton">Exit</string>
+
+</resources>
